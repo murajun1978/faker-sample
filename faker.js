@@ -1,5 +1,3 @@
-'using scrip'
-
 module.exports = function() {
   var faker = require('faker')
 
